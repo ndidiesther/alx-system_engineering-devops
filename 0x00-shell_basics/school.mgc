@@ -1,2 +1,2 @@
-0 string SCHOOL School data
-!:mime School
+0 search /School School File containing "School"
+!:mime text/x-School
